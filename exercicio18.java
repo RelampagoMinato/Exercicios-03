@@ -1,6 +1,5 @@
-import java.util.Scanner;
-
 import Dominio.Funcionario3;
+import java.util.Scanner;
 
 public class exercicio18 {
     public static void executar() {
@@ -27,3 +26,4 @@ public class exercicio18 {
         scanner.close();
     }
 }
+  
