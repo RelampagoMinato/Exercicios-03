@@ -1,6 +1,5 @@
-import java.util.Scanner;
-
 import Dominio.Empresa;
+import java.util.Scanner;
 
 public class exercicio16 {
     public static void executar() {
@@ -21,3 +20,4 @@ public class exercicio16 {
         scanner.close();
     }
 }
+ 
