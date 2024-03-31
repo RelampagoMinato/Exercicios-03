@@ -1,6 +1,5 @@
-import java.util.Scanner;
-
 import Dominio.ContadeLuz;
+import java.util.Scanner;
 
 public class exercicio22 {
     public static void executar() {
@@ -20,3 +19,4 @@ public class exercicio22 {
         scanner.close();
     }
 }
+ 
