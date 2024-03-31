@@ -23,6 +23,6 @@ public class exercicio01 {
         
         aluno.exibirMediaSemestre();
 
-        scanner.close();
+        scanner.close(); 
     }
 }
