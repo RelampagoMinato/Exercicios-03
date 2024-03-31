@@ -1,7 +1,6 @@
-import java.util.Scanner;
-
 import Dominio.PessoaApta;
 import Dominio.ServicoMilitar;
+import java.util.Scanner;
 
 public class exercicio13 {
     public static void executar() {
@@ -31,4 +30,4 @@ public class exercicio13 {
         servicoMilitar.exibirTotais();
         scanner.close();
     }
-}
+} 
