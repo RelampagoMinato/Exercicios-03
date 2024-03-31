@@ -19,6 +19,6 @@ public static void executar() {
 
     vendedor.exibirInformacoes();
 
-    scanner.close();  
+    scanner.close(); 
 }
 }
