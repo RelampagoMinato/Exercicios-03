@@ -1,6 +1,5 @@
-import java.util.Scanner;
-
 import Dominio.Triangulo;
+import java.util.Scanner;
 
 
 public class exercicio19 {
@@ -30,3 +29,4 @@ public class exercicio19 {
         scanner.close();
     }
 }
+ 
