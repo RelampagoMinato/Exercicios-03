@@ -1,6 +1,5 @@
-import java.util.Scanner;
-
 import Dominio.Veiculo1;
+import java.util.Scanner;
 
 public class exercicio15 {
     public static void executar() {
@@ -29,3 +28,4 @@ public class exercicio15 {
         scanner.close();
     }
 }
+ 
