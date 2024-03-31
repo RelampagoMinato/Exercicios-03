@@ -18,6 +18,6 @@ public class exercicio02 {
 
         System.out.println("O consumo médio do automóvel é: " + consumoMedio + " km/l");
         
-        scanner.close();
+        scanner.close(); 
     }
 }
