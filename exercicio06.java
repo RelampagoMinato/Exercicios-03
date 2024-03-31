@@ -17,4 +17,4 @@ public class exercicio06 {
 
         scanner.close(); 
     }
-}
+} 
