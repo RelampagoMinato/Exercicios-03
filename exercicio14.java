@@ -1,7 +1,6 @@
-import java.util.Scanner;
-
 import Dominio.AnalisarProduto;
 import Dominio.Produto2;
+import java.util.Scanner;
 
 public class exercicio14 {
     public static void executar() {
@@ -20,7 +19,7 @@ public class exercicio14 {
 
         AnalisarProduto analisador = new AnalisarProduto(produtos);
         analisador.processar();
-
+ 
         scanner.close();
     }
 }
