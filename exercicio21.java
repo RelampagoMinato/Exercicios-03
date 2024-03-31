@@ -1,6 +1,5 @@
-import java.util.Scanner;
-
 import Dominio.Nadador;
+import java.util.Scanner;
 
 public class exercicio21 {
     public static void main(String[] args) {
@@ -23,3 +22,4 @@ public class exercicio21 {
         throw new UnsupportedOperationException("Unimplemented method 'executar'");
     }
 }
+ 
