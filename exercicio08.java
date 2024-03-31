@@ -1,6 +1,5 @@
-import java.util.Scanner;
-
 import Dominio.Alunonota;
+import java.util.Scanner;
 
 public class exercicio08 {
     public static void executar() {
@@ -22,4 +21,4 @@ public class exercicio08 {
 
         scanner.close();
     }
-}
+} 
