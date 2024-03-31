@@ -1,6 +1,5 @@
-import java.util.Scanner;
-
 import Dominio.ConversaoDolar;
+import java.util.Scanner;
 
 public class exercicio04 {
     public static void executar() {
@@ -17,6 +16,6 @@ public class exercicio04 {
         
         conversor.exibirInformacoes();
         
-        scanner.close();
+        scanner.close(); 
     }
 }
