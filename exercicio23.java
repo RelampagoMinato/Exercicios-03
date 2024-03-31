@@ -1,6 +1,6 @@
-import java.util.Scanner;
 import Dominio.Individuo;
 import Dominio.PesoIdealCalculadora;
+import java.util.Scanner;
 
 public class exercicio23 {
     public static void executar() {
@@ -31,3 +31,4 @@ public class exercicio23 {
         scanner.close();
     }
 }
+ 
