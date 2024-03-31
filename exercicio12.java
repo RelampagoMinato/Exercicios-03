@@ -29,4 +29,4 @@ public class exercicio12 {
 
         scanner.close();
     }
-}
+} 
